@@ -90,8 +90,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Name:NIKSHITHA G
-REG NO: 212223110031
+Name:R. SANJANA
+REG NO: 212223240148
 
 /* USER CODE BEGIN Header */
 /**
