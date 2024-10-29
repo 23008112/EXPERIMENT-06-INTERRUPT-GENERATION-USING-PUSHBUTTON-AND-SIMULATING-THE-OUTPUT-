@@ -317,10 +317,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
- ![alt text](<exp 6 interrrupt pmc.png>)
+![image](https://github.com/user-attachments/assets/5c0577b4-4bb0-4fec-9a96-57f8356cb526)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![alt text](<exp 6 pmc.png>)
+![image](https://github.com/user-attachments/assets/3920af88-2909-46b4-85e3-0accf5e2561e)
+
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
